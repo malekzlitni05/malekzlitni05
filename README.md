@@ -8,7 +8,7 @@
 <div>
 <br>
    <a href="https://github.com/malekzlitni05">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=160DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Malek+Zlitni;IT+Engineering+Student" alt="malekzlitni05" /></a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=FF66B2&center=true&vCenter=true&lines=Hi%2C+I%27m+Malek+Zlitni;IT+Engineering+Student" alt="malekzlitni05" />
 </h1>
 
 ## 💁‍♀️ About Me :
