@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img data-lazyloaded="1" src="https://zebrabi.com/guide/wp-content/uploads/2023/08/image-681-1.png" width="768" height="512" id="image-21-31354" alt="" data-src="https://zebrabi.com/guide/wp-content/uploads/2023/08/image-681-1.png" class="ct-image single-blog-featured-img entered litespeed-loaded" data-ll-status="loaded">
+  <img data-lazyloaded="1" src="https://zebrabi.com/guide/wp-content/uploads/2023/08/image-681-1.png" width="500" height="375" id="image-21-31354" alt="" data-src="https://zebrabi.com/guide/wp-content/uploads/2023/08/image-681-1.png" class="ct-image single-blog-featured-img entered litespeed-loaded" data-ll-status="loaded">
   <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=malekzlitni05&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/malekzlitni05.svg?style=for-the-badge&logo=appveyor">
