@@ -68,7 +68,7 @@ My recent explorations have extended beyond web development into the realm of da
 
 
   
-## :mag_right: Find me on :
+## 🔎 Find me on :
 
 <div align="center">
 <a href="https://github.com/malekzlitni05">
