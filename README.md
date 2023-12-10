@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=160DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Malek+Zlitni;IT+Engineering+Student" alt="malekzlitni05" /></a>
 </h1>
 
-## :tipping_hand_woman: About Me :
+## :sassy_woman: About Me :
 
 
 My name is Malek, and I am thrilled to have the opportunity to introduce myself today. I am a web development student with a background in preparatory school, followed by my enrollment in the prestigious ESPRIT institute. I am passionate about creating innovative and user-friendly web solutions that meet the ever-evolving needs of today's digital world. 
