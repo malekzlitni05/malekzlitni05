@@ -28,7 +28,7 @@ My recent explorations have extended beyond web development into the realm of da
 ## 🚀 Frameworks and Languages
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,express,nodejs,spring,django,laravel,.net" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,express,nodejs,spring,django,laravel,dotnet" />
   </a>
 </p>
 
