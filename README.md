@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460"/> <br>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">v</a></p>
   <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=malekzlitni05&style=for-the-badge">
     <img src="https://img.shields.io/github/followers/malekzlitni05.svg?style=for-the-badge&logo=appveyor">
@@ -46,7 +47,6 @@ My recent explorations have extended beyond web development into the realm of da
 
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,github,git,maven,graphql,postman,linux,vite,docker,jenkins,grafana,figma" />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original-wordmark.svg" alt="canva" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="40"/>
   </a>
