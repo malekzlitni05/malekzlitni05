@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=160DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Malek+Zlitni;IT+Engineering+Student" alt="malekzlitni05" /></a>
 </h1>
 
-## :sassy_woman: About Me :
+## 💁‍♀️ About Me :
 
 
 My name is Malek, and I am thrilled to have the opportunity to introduce myself today. I am a web development student with a background in preparatory school, followed by my enrollment in the prestigious ESPRIT institute. I am passionate about creating innovative and user-friendly web solutions that meet the ever-evolving needs of today's digital world. 
@@ -52,7 +52,7 @@ My recent explorations have extended beyond web development into the realm of da
 <p>
   
   
-## :chart_with_upwards_trend: My GitHub Stats
+## 🔎 My GitHub Stats
    
  <a href="https://github.com/malekzlitni05"><img src="https://github-readme-stats.vercel.app/api?username=malekzlitni05&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="malekzlitni05's GitHub stats" /></a> <a href="http://www.github.com/malekzlitni05"><img src="https://github-readme-streak-stats.herokuapp.com/?user=malekzlitni05&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
  
